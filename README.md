@@ -1,4 +1,4 @@
-# SheltonCapital
+# Shelton Capital
 
 ## Tasks
 
