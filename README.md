@@ -3,7 +3,8 @@
 ## Tasks
 
 ### Weekly Sales Activity
-
+#### Resources
+* http://www.dmzinteractive.com/blog/10-must-have-sales-management-reports-your-salesforcecom-dashboard
 #### 5 Sales Professionals:
 * Ryan Groves, Bill Barnes, Chad Wickliffe, Paul Schemel, and Jeff Medina
 
