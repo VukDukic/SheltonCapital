@@ -7,6 +7,7 @@
 * http://www.dmzinteractive.com/blog/10-must-have-sales-management-reports-your-salesforcecom-dashboard
 * https://www.adminhero.com/the-hidden-functionality-of-custom-report-types
 * https://na59.salesforce.com/00Of4000001GME6/e?retURL=%2F00Of4000001GME6
+* https://success.salesforce.com/answers?id=90630000000h2d1AAA
 #### 5 Sales Professionals:
 * Ryan Groves, Bill Barnes, Chad Wickliffe, Paul Schemel, and Jeff Medina
 
