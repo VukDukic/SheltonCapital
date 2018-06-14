@@ -1,7 +1,7 @@
 # Object and Field Mapping
 * Account Object = Firms/Branches
-Field Required | SFDC Object | SFDC Field Name
---- | --- | ---
+| Field Required | SFDC Object | SFDC Field Name |
+| --- | --- | --- |
 
 https://docs.google.com/spreadsheets/d/1kF7ne1eIiHnb0lOuY_rfHyHdLIDMcOKC1upRbhL8dT0/edit#gid=765047063
 
