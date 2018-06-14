@@ -1,7 +1,11 @@
 # Object and Field Mapping
 * Account Object = Firms/Branches
-| Field Required | SFDC Object | SFDC Field Name |
-| --- | --- | --- |
+
+| Field Required | SFDC Object  | SFDC Field Name |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 https://docs.google.com/spreadsheets/d/1kF7ne1eIiHnb0lOuY_rfHyHdLIDMcOKC1upRbhL8dT0/edit#gid=765047063
 
