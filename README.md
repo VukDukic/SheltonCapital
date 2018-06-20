@@ -44,3 +44,26 @@
 * One bar chart for each activity.  7 reports.
 
 * a monthly summary report by sales person with all 7 activities on each monthly summary report.
+#
+In our SMA Object only
+Create a solution to identify and separate Wells Fargo advisors (any email with wellsfargoadvisors.com and wfadvisors.com) from our results because our reps do not receive credit for Wells Fargo
+In our SMA Object only, create a report/dash
+Be able to adjust time periods (Time periods include: weekly, quarterly, YTD, in totality from the beginning of time; YoY; PoP (period over period whether that be WoW or MoM)) for the following.
+
+Report on SMA totals by product/strategy (5 total products/strategies)
+Further segment/view by territory
+Report on SMA percent of total by product/strategy
+Further segment/view by territory
+Report on Advisors’ SMA total by product
+Further segment by territory
+Report SMA Advisors’ percentage of overall product total
+Rollups (as a firm, then broken down by advisor and this feature is already developed, but needs to be deployed)
+                                                               i.      RB
+
+                                                             ii.      Mercer
+
+                                                           iii.      LPL Financial
+
+                                                           iv.      Raymond James
+
+                                                             v.      Wells Fargo
