@@ -16,5 +16,3 @@ Please add two of the contacts (sample size), and then send me their names so ou
 I received many errors in the data import wizard where the mapping continuously failed. I can take screenshots, but essentially, the name didn’t match or couldn’t load or I didn’t have something mapped correctly. I have no idea.
 These should be added with Jeff Medina (or Chad Wickliffe) as the Owner (Eastern Territory)
  
-
-Let me know the expense and ETA for this.
