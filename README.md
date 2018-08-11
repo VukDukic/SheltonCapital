@@ -67,3 +67,8 @@ Rollups (as a firm, then broken down by advisor and this feature is already deve
                                                            iv.      Raymond James
 
                                                              v.      Wells Fargo
+
+
+/services/data/v43.0/query
+/services/data/v43.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile+ WHERE+EventType+=+'ReportExport'
+
